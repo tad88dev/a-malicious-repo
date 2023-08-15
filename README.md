@@ -1,2 +1,1 @@
-# a-malicious-repo
-a malicious-repo
+# JUST AN EXAMPLE OF MALICIOUS CODE HOSTED ON A BROKEN LINKS AUTHOR
